@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2043
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "FAST", "FAST.vfproj", "{18AE8067-CCC6-4479-A0DB-C4089EF9FE71}"
 	ProjectSection(ProjectDependencies) = postProject
@@ -86,8 +86,8 @@ Global
 		{1A440C5B-CBA6-47D9-9CC2-C1CBA8C00BF9}.Release|Win32.Build.0 = Release|Win32
 		{1A440C5B-CBA6-47D9-9CC2-C1CBA8C00BF9}.Release|x64.ActiveCfg = Release|x64
 		{1A440C5B-CBA6-47D9-9CC2-C1CBA8C00BF9}.Release|x64.Build.0 = Release|x64
-		{BF86702A-CB17-4050-8AE9-078CDC5910D3}.Debug_Double|Win32.ActiveCfg = Debug|Win32
-		{BF86702A-CB17-4050-8AE9-078CDC5910D3}.Debug_Double|Win32.Build.0 = Debug|Win32
+		{BF86702A-CB17-4050-8AE9-078CDC5910D3}.Debug_Double|Win32.ActiveCfg = Release|Win32
+		{BF86702A-CB17-4050-8AE9-078CDC5910D3}.Debug_Double|Win32.Build.0 = Release|Win32
 		{BF86702A-CB17-4050-8AE9-078CDC5910D3}.Debug_Double|x64.ActiveCfg = Debug|x64
 		{BF86702A-CB17-4050-8AE9-078CDC5910D3}.Debug_Double|x64.Build.0 = Debug|x64
 		{BF86702A-CB17-4050-8AE9-078CDC5910D3}.Debug_Matlab|Win32.ActiveCfg = Debug|Win32
